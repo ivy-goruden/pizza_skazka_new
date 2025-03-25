@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Меню"
+        android:id="@+id/menu_tab"
+        android:icon="@drawable/pizza">
+    </item>
+    <item
+        android:title="Сказка"
+        android:id="@+id/skazka_tab"
+
+        android:icon="@drawable/skazka">
+    </item>
+    <item
+        android:title="ЛК"
+        android:id="@+id/lk_tab"
+        android:icon="@drawable/user">
+    </item>
+    <item
+    android:title="Лукошко"
+    android:id="@+id/lukoshko_tab"
+    android:icon="@drawable/cart">
+</item>
+
+</menu>
